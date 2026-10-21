@@ -7,6 +7,6 @@ cd Computer_Graphics
 python -m venv venv
 source venv/Scripts/activate
 
-pip install -r requirements.txt
+pip install -r lab1/requirements.txt
 
 python main.py
