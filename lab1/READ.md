@@ -1,7 +1,7 @@
 ## Инструкция по запуску
 
 ```bash
-git clone [https://github.com/VladislavPoniatovsky/Computer_Graphics.git](https://github.com/VladislavPoniatovsky/Computer_Graphics.git)
+git clone https://github.com/VladislavPoniatovsky/Computer_Graphics.git
 cd Computer_Graphics
 
 python -m venv venv
