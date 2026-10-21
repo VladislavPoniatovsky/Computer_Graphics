@@ -9,4 +9,4 @@ source venv/Scripts/activate
 
 pip install -r lab1/requirements.txt
 
-python main.py
+python lab1/main.py
